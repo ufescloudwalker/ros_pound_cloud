@@ -58,6 +58,8 @@ rate_mbps: 54.0
 quiet: true
 ```
 
+Currently works with ROS Kinetic and Melodic
+
 
 
 
